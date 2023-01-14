@@ -5,7 +5,7 @@ This project provides a Monte Carlo option pricing engine for European call and 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-Prerequisites
+### Prerequisites
 
 You will need to have the following libraries installed:
 
@@ -19,7 +19,7 @@ You can install them by running the following command:
 pip install numpy requests json attrdict
 
 You will also need an API key from Oanda, which can be obtained by creating an account on the Oanda website.
-Installing
+### Installing
 
     Clone the repository
 
@@ -38,18 +38,18 @@ API_KEY = "YOUR_API_KEY"
 python main.py
 
 The program will output the call price and put price for the option.
-Built With
+## Built With
 
     numpy - Used for array operations
     requests - Used for making HTTP requests
     json - Used for parsing JSON data
     attrdict - Used for converting dictionaries to objects, allowing dot notation to access keys.
 
-Authors
+## Authors
 
     Your Name - Ghaith Khalil
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 Acknowledgments
@@ -58,6 +58,6 @@ Acknowledgments
     Inspiration
     etc
 
-Note
+## Note
 
 The return values are only for educational use. This is not a real world trading platform.
