@@ -31,7 +31,7 @@ cd monte-carlo-option-pricing
 
     Create a new file called config.py in the project directory and add the following line to it, replacing YOUR_API_KEY with your actual Oanda API key
 
-API_KEY = "YOUR_API_KEY"
+OANDA_API_KEY = "YOUR_API_KEY"
 
     Run the main script
 
@@ -47,7 +47,7 @@ The program will output the call price and put price for the option.
 
 ## Authors
 
-    Ghaith Khalil - *Initial work*
+    Ghaith Khalil - Initial work
 
 ## License
 
