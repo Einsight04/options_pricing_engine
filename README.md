@@ -2,7 +2,7 @@
 
 This project provides a Monte Carlo option pricing engine for European call and put options. The engine uses the spot price and strike price obtained from Oanda API.
 
-##Getting Started
+#Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 Prerequisites
