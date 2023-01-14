@@ -23,7 +23,7 @@ You will also need an API key from Oanda, which can be obtained by creating an a
 
     Clone the repository
 
-git clone https://github.com/<username>/monte-carlo-option-pricing.git
+git clone https://github.com/Einsight04/monte-carlo-option-pricing.git
 
     Enter the project directory
 
