@@ -54,10 +54,6 @@ The program will output the call price and put price for the option.
 This project is licensed under the MIT License - see the LICENSE.md file for details
 Acknowledgments
 
-    Hat tip to anyone whose code was used
-    Inspiration
-    etc
-
 ## Note
 
 The return values are only for educational use. This is not a real world trading platform.
