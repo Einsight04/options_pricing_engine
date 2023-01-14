@@ -47,7 +47,7 @@ The program will output the call price and put price for the option.
 
 ## Authors
 
-    Your Name - Ghaith Khalil
+    Ghaith Khalil - *Initial work*
 
 ## License
 
